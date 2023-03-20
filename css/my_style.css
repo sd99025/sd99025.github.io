@@ -9,6 +9,6 @@ font-family: 'Noto Sans TC', sans-serif;
 color: brown;
 }
 .expedu_icon:hover{
-    background-color: brown;
-    color: aliceblue;
+    background-color: rgb(248, 243, 243);
+    color: rgb(41, 145, 236);
 }
