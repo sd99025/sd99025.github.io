@@ -15,8 +15,8 @@ color: brown;
 :root {
      --bs-primary: brown;
      --bs-primary-rgb: 165, 42, 42;
-     --bs-secondary: brown;
-     --bs-secondary-rgb: 165, 42, 42;
+     --bs-secondary: blue;
+     --bs-secondary-rgb: 41, 145, 236;
 }
 .expedu_icon:hover {
      color: var(--bs-secondary);
